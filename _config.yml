@@ -41,9 +41,9 @@ producthunt:
 # Navigation
 navigation:
   - text: About
-    url: /blog/about/
+    url: /blog/about.html
   - text: Contact Me
-    url: /blog/contact/
+    url: /blog/contact.html
 
 # Required Plugins
 plugins_dir:
