@@ -4,7 +4,7 @@ description: "A simple tech blogging website surrounding John's current fascinat
 meta_description: 'Tech blogging website'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: "/blog"
+baseurl: ""
 production_url: 'https://www.johngermano.github.io'
 disqus: 'johngermano'
 mailchimp_url: '//outlook.us20.list-manage.com/subscribe/post?u=4ee047ab02e75b42a1d30be68&amp;id=469790e182'
@@ -41,9 +41,9 @@ producthunt:
 # Navigation
 navigation:
   - text: About
-    url: /blog/about.html
+    url: about.html
   - text: Contact Me
-    url: /blog/contact.html
+    url: contact.html
 
 # Required Plugins
 plugins_dir:
