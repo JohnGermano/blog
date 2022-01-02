@@ -4,12 +4,10 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+John Germano is a Data Analyst from Cleveland, Ohio. He graduated from Carnegie Mellon University's Heinz College with a master's in **Public Policy, Management, and Data Analytics**. Over the last two years, he has worked on a variety of projects to continue honing his development skills.
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+> Just because something doesn’t do what you planned it to do doesn’t mean it’s useless.  <cite>Thomas Edison</cite>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+As a hobby, John is learning guitar and learning how to develop and maintain websites on Github.
 
 *Thank You for reading!*

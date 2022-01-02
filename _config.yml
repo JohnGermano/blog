@@ -1,13 +1,13 @@
 # Site setings
-name: 'Horace'
-description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'The Lazy Coder'
+description: "A simple tech blogging website surrounding John's current fascinations"
+meta_description: 'Tech blogging website'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
-production_url: https://horace.netlify.com/
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+baseurl: "/blog"
+production_url: 'https://www.johngermano.github.io'
+disqus: 'johngermano'
+mailchimp_url: '//outlook.us20.list-manage.com/subscribe/post?u=4ee047ab02e75b42a1d30be68&amp;id=469790e182'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
 ga_analytics: 
@@ -15,37 +15,35 @@ ga_analytics:
 
 # Author
 author:
-  name: 'Daniel Bennett'
-  image: 'authorimage.jpg'
-  greetings: 'Hi there!'
-  description: "My name is Daniel Bennett. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
-  bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
+  name: 'John Germano'
+  image: 'authorimage.png'
+  greetings: 'Welcome!'
+  description: "My name is John Germano. I'm a Data Analyst based in Columbus, OH. It's nice to meet you! "
+  bio: 'John is a Data Analyst, portrait photographer, and lover of all things tech.'
 
 # Contact form setings
-email: youremail@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+email: germanojj@outlook.com
+contact_page_description: "If you want to get a hold of me, use this form and I will get in touch with you as soon as possible!"
+thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
-twitter: 'username'
-facebook: 'username'
-github: 'username'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
-producthunt: '@username'
+twitter: 'John___Germano'
+facebook:
+github: 'JohnGermano'
+codepen: 
+dribbble: 
+medium: 
+instagram: 'johngerman.o'
+pinterest: 
+linkedin: 
+producthunt: 
 
 # Navigation
 navigation:
   - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
+    url: /blog/about/
   - text: Contact Me
-    url: /contact/
+    url: /blog/contact/
 
 # Required Plugins
 plugins_dir:
