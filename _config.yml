@@ -5,7 +5,7 @@ meta_description: 'Tech blogging website'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
-production_url: 'https://www.johngermano.com'
+production_url: 'https://www.johngermano.github.io'
 disqus: 'johngermano'
 mailchimp_url: '//outlook.us20.list-manage.com/subscribe/post?u=4ee047ab02e75b42a1d30be68&amp;id=469790e182'
 cover_image: bc_1.jpg
