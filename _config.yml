@@ -1,0 +1,68 @@
+# Site setings
+name: 'The Lazy Coder'
+description: "A simple tech blogging website surrounding John's current fascinations"
+meta_description: 'Tech blogging website'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ""
+production_url: 'https://www.johngermano.github.io'
+disqus: 'johngermano'
+mailchimp_url: '//outlook.us20.list-manage.com/subscribe/post?u=4ee047ab02e75b42a1d30be68&amp;id=469790e182'
+cover_image: bc_1.jpg
+# Add your GA Tracking Id
+ga_analytics: 
+
+
+# Author
+author:
+  name: 'John Germano'
+  image: 'authorimage.png'
+  greetings: 'Welcome!'
+  description: "My name is John Germano. I'm a Data Analyst based in Columbus, OH. It's nice to meet you! "
+  bio: 'John is a Data Analyst, portrait photographer, and lover of all things tech.'
+
+# Contact form setings
+email: germanojj@outlook.com
+contact_page_description: "If you want to get a hold of me, use this form and I will get in touch with you as soon as possible!"
+thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
+
+# Social links
+twitter: 'John___Germano'
+facebook:
+github: 'JohnGermano'
+codepen: 
+dribbble: 
+medium: 
+instagram: 'johngerman.o'
+pinterest: 
+linkedin: 
+producthunt: 
+
+# Navigation
+navigation:
+  - text: About
+    url: about.html
+  - text: Contact Me
+    url: contact.html
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
